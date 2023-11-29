@@ -32,8 +32,6 @@ from google_scholar_scraper import check_captcha, get_paper_url, pause_for_one_m
 # Example Usage
 pubmed_id = "12345678"
 paper_url = get_paper_url(pubmed_id)
-check_captcha()
-pause_for_one_minute()
 citations = scrape(paper_url)
 print(f"The paper with PubMed ID {pubmed_id} has {citations} citations on Google Scholar.")
 ```
