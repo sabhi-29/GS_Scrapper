@@ -48,4 +48,12 @@ We welcome contributions to enhance the functionality of this library. If you ha
 
 This library is licensed under the MIT License - see the LICENSE.md file for details.
 
+## Author
+
+Abhishek Sharma, https://github.com/sabhi-29
+
+## Citation
+
+Sharma A, GS_Scrapper, Github [https://github.com/tseemann/abricat](https://github.com/ajlopatkin/GS_Scrapper)https://github.com/ajlopatkin/GS_Scrapper
+
 Happy researching!
